@@ -2,7 +2,7 @@
 using namespace std;
 #define OK 0
 #define ERROR -1
-#define MAXSIZE  1000
+#define MAXSIZE  100
 typedef int Status;
 typedef char TElemtype;
 typedef struct TNode{
